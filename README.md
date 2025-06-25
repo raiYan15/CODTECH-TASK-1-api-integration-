@@ -100,7 +100,7 @@ Copy code
 🖥️ 1. Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone (https://github.com/raiYan15/CODTECH-TASK-1-api-integration-)
 cd weather-app
 
 
